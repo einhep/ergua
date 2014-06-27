@@ -1,28 +1,21 @@
 == README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is created an writen by einhep and his friends,which is used for their Model platform.
+Hi "Sao nian" ,a bunch of girls those who have gaint breast is coming.
 
 Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
+ruby -v 2.0.0
+rails -v 4.0.4
+and others u will see the details in Gemfile
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
+1. download the project to current dir
+<localhost>$  git clone http://github.com/einhep/ergua
+2. install gems
+<localhost>$  cd ergua
+<localhost>$  bundle install
+3. run this project
+<localhost>$  rails s
+visit the http://localhost:3000 by firefox
+4.bang!
 <tt>rake doc:app</tt>.
